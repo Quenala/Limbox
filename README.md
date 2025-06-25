@@ -15,7 +15,8 @@ Automatic zone detection for Temenos and Apollyon.
 - Drag-and-drop GUI window with persistent position.
 - Configurable font size and compact mode saved in config file.
 
-Commands
+Commands:
+
 //limbox show
 Show the tracker window (if hidden).
 
