@@ -6,6 +6,9 @@ Description
 
 Limbox is a Windower addon that helps you track your progress inside Limbus (Temenos and Apollyon) areas in Final Fantasy XI. It reads your temporary key items and displays which floors you have cleared in real-time. It also tracks the points earned during your run. It supports both Temenos and Apollyon zones with automatic zone detection and dynamically changes its display based on your current tower or area.
 
+<img width="84" height="384" alt="image" src="https://github.com/user-attachments/assets/5efa2a11-62a6-4f88-9be0-72b13a550833" />
+
+
 Features:
 
 Automatic zone detection for Temenos and Apollyon.
