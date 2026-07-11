@@ -1,6 +1,10 @@
 Limbox - Limbus Tracker for Windower
 
-Author: Quenala Version: 1.3
+Author: Quenala Version: 1.4
+
+Update 11.07.26: Version 1.4
+Updated Temenos floors.
+
 
 Description
 
